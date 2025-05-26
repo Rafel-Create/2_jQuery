@@ -1,0 +1,19 @@
+.typo{
+    background-color: yellow;
+    height: 100px; width: 200px; 
+    position: absolute;
+    top: 600px;
+}
+.rect{
+    background-color: #98bf21;
+    height:80px; width: 80px;
+    position:absolute; /*포지션에 변동이 필요할 때*/
+    top:340px;
+}
+
+.time{
+    background-color: hotpink;
+    height:100px; width: 100px;
+    position:absolute; /*포지션에 변동이 필요할 때*/
+    top:170px; right: 400px;
+}
